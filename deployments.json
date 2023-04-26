@@ -1,0 +1,21 @@
+{
+  "tokenA": {
+    "address": "0x36331802683d759CCF5a357E84389661d2C7b375",
+    "constructorArguments": [
+      "TokenA"
+    ]
+  },
+  "tokenB": {
+    "address": "0xb97ea753d89ee46D9163FDd7f8300b4859A98087",
+    "constructorArguments": [
+      "TokenB"
+    ]
+  },
+  "amm": {
+    "address": "0x1e2822F31160e7C277F9e4808490D1096C1Fe8D0",
+    "constructorArguments": [
+      "0x36331802683d759CCF5a357E84389661d2C7b375",
+      "0xb97ea753d89ee46D9163FDd7f8300b4859A98087"
+    ]
+  }
+}
